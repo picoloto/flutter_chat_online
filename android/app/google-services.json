@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "14156929311",
+    "firebase_url": "https://chatundernose.firebaseio.com",
+    "project_id": "chatundernose",
+    "storage_bucket": "chatundernose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14156929311:android:468700323470552b",
+        "android_client_info": {
+          "package_name": "br.com.undernose.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14156929311-244f7tde68gj4b4fcap972s0lil826nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.undernose.chatonline",
+            "certificate_hash": "dd0960e8b7f6cb8b84fdd7a546b3d7c1e9af75c5"
+          }
+        },
+        {
+          "client_id": "14156929311-u10198nj2g68h46slujk3kantum4t9s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXUtHBVWJfm6eVmQXMOZZNbt8KYmhyMDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14156929311-u10198nj2g68h46slujk3kantum4t9s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
